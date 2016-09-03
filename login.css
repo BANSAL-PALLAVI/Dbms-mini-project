@@ -1,0 +1,47 @@
+form{
+	border : 2px solid #B0E0E6;
+	padding : 130px;
+	font-family : "Courier New";
+	font-weight : bold;
+	font-size : 20px;  
+}
+
+#div2{
+	text-align : center;
+	background-color : #B0E0E6;
+	border-radius : 10px;
+	height : 420px;
+	margin-left : 50%;
+}
+
+#div1{
+	background-color : #4682B4;
+	border : 2px solid #4682B4;
+	height : 230px;
+	margin-left : 50%;
+	color : white;
+	margin-top : -655px;
+}
+
+h2{
+	text-align : center;
+	padding : 7%;
+	font-family : "Courier New";
+	font-weight : bolder;
+	font-size : 30px;  
+
+}
+
+#login{
+	background-color : green;
+	font-weight : bold;
+	padding : 7px;
+	color: white;
+	border : 1px solid darkgreen;
+	width : 100px;
+}
+
+img{
+	width : 50%;
+	height : 100%;
+}

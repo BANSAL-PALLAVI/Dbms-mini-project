@@ -1,0 +1,25 @@
+#div1{
+	height : 50px;
+}
+
+#div2{
+	border : 1px solid grey;
+	margin-left : 300px;
+	margin-right : 300px;
+	padding : 30px;
+	background-color : #D3D3D3;
+	clear : both;
+}
+
+body{
+	background-color : #7FFFD4;
+}
+
+#su{
+	background-color : green;
+	font-weight : bold;
+	padding : 10px;
+	color: white;
+	border : 1px solid darkgreen;
+	width : 150px;
+}
